@@ -7,3 +7,4 @@ $postData = new PostData(new QueryBuilder());
 $postData->getAllPosts("pubdate");
 
 echo 'я добавил новую строчку кода';
+echo 'я добавил еще новую строчку кода';

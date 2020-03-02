@@ -13,3 +13,5 @@ switch($route){
     case 'updatepost':require_once 'app/db/posts/updatePost.php';
 	break;
 }
+
+echo "помогите"
